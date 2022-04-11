@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@self.id/react": "^0.2.0",
+    "@self.id/web": "^0.3.0",
+    "install": "^0.13.0",
     "next": "12.1.4",
+    "npm": "^8.6.0",
     "react": "18.0.0",
     "react-dom": "18.0.0"
   },
